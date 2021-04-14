@@ -3,7 +3,7 @@ class MiFooter
   connectedCallback() {
     this.innerHTML = /* html */
       `&copy; 2021
-      Andres Espinoza christian Dario.`;
+      Andres Espinoza Christian Dario.`;
   }
 }
 customElements.define(
